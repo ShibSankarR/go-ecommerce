@@ -1,0 +1,269 @@
+/******************************MEDIA QUERIES***********************/
+@media screen and (min-width: 2161px) and (max-width: 3840px) {
+
+	
+	
+  
+  }
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1981px) and (max-width: 2160px) {
+
+	
+  }
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1650px) and (max-width: 1980px) {
+
+	
+  
+  }
+  
+
+
+@media screen and (min-width: 1440px) and (max-width: 1650px) {
+
+  
+
+}
+
+@media (min-width: 1380px) and (max-width: 1440px) {
+  
+
+
+
+
+
+}
+@media (max-width: 1280px) {
+
+	
+	
+
+
+
+}
+
+
+@media (max-width: 1099.98px) {
+
+
+  .logo {
+    min-width: 273px;
+    width: 273px;
+}
+.stellarnav > ul > li:nth-child(3) {
+  margin-right: 26%;
+}
+
+
+
+
+}
+
+
+
+@media (max-width: 991.98px) {
+  .logo {
+    min-width: 223px;
+    width: 223px;
+    margin: 0 0 auto;
+    z-index: 9;
+}
+.stellarnav.light.left .menu-toggle, .stellarnav.light.right .menu-toggle {
+  float: right;
+}
+.right-part {
+  right: 75px;
+  top: 27%;
+  transform: translateY(35%);
+}
+.stellarnav > ul > li:nth-child(3) {
+  margin-right: 0;
+}
+.stellarnav:after {
+  display: none;
+}
+.each-catagory h4 {
+  margin-bottom: 20px;
+}
+.top-space {
+  margin-top: 40px;
+}
+.common-space {
+  margin-top: 120px;
+}
+.each-catagory h4 a {
+  font-size: 18px;
+}
+.pro-details p {
+  font-size: 12px;
+}
+.inn-pro-details h3 {
+  font-size: 24px;
+}
+.inn-pro-details p {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+.pro-description {
+  margin-top: 25%;
+}
+
+
+
+
+
+
+
+}
+@media (max-width: 812px) {
+
+
+
+
+
+}
+@media (max-width: 768px) {
+  .logo {
+    min-width: 203px;
+    width: 203px;
+    margin: 0 0 auto;
+    z-index: 9;
+}
+.right-part {
+  right: 75px;
+  top: 35%;
+  transform: translateY(35%);
+}
+.pro-image-slider .slick-slide img {
+  height: auto;
+}
+.pro-image-slider {
+  width: 100%;
+  float: none;
+}
+.pro-image-slider .slick-slide {
+  height: auto;
+  margin-bottom: -12px;
+}
+.pro-image-slider-nav li {
+  display: inline-block;
+  width: 23%;
+}
+.pro-image-slider-nav {
+  width: 100%;
+  padding: 10px 0;
+  float: none;
+  margin-bottom: 50px;
+}
+.pro-image-slider:after {
+  right: -14px;
+}
+.size-chart ul li {
+  margin-bottom: 5px;
+}
+.common-space {
+  margin-top: 40px;
+}
+.inn-pro-details {
+  margin-top: 90px;
+}
+.pro-description {
+  margin-top: 0;
+}
+.pro-image-slider-nav li {
+  width: 24%;
+}
+
+
+
+
+
+}
+@media (max-width: 736px) { 
+
+	
+
+
+}
+
+@media (max-width: 575.98px) {
+
+
+  .top-header {
+    margin-top: 0 !important;
+}
+  .top-header ul li a {
+    padding: 10px 5px;
+    font-size: 11px;
+}  
+  .main-header {
+  margin-top: 0;
+}
+.logo {
+  min-width: 203px;
+  width: 203px;
+  margin: 0 auto;
+  z-index: 9;
+}
+.stellarnav {
+  margin-top: 0;
+}
+.stellarnav > ul > li:nth-child(3) {
+  margin-right: 0;
+}
+.stellarnav.light.left .menu-toggle, .stellarnav.light.right .menu-toggle {
+  float: right;
+}
+.right-part {
+  position: absolute;
+  right: 24%;
+  text-align: right;
+  top: 63%;
+  transform: translateY(72%);
+  z-index: 99;
+}
+.page-title {
+  line-height: 30px;
+  font-size: 23px;
+}
+.pro-image-slider-nav li {
+  width: 23%;
+}
+
+
+}
+@media (max-width: 480px) {
+  
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 375px) {
+  
+
+}
